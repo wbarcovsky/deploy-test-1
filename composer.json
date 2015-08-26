@@ -1,0 +1,16 @@
+{
+    "name": "goodwin/test-deploy-1",
+    "authors": [
+        {
+            "name": "G00DWIN",
+            "email": "wbarcovsky@yandex.ru"
+        }
+    ],
+    "repositories": [{
+    	"type": "vcs",
+    	"url":  "https://github.com/wbarcovsky/deploy-test-core.git"
+  	}],
+    "require": {
+    	"goodwin/core": "1.0.1"
+    }
+}

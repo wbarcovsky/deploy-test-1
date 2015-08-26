@@ -1,0 +1,46 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "0c1791470a6897f2a7c3c7fa8db2375d",
+    "packages": [
+        {
+            "name": "goodwin/core",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/wbarcovsky/deploy-test-core.git",
+                "reference": "b543af3512ac9233124850416be5fca853f4f9e6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/wbarcovsky/deploy-test-core/zipball/b543af3512ac9233124850416be5fca853f4f9e6",
+                "reference": "b543af3512ac9233124850416be5fca853f4f9e6",
+                "shasum": ""
+            },
+            "type": "library",
+            "authors": [
+                {
+                    "name": "G00DWIN",
+                    "email": "wbarcovsky@yandex.ru"
+                }
+            ],
+            "description": "Test core module",
+            "support": {
+                "source": "https://github.com/wbarcovsky/deploy-test-core/tree/1.0.1",
+                "issues": "https://github.com/wbarcovsky/deploy-test-core/issues"
+            },
+            "time": "2015-08-26 11:57:47"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -1,2 +1,5 @@
-print '<h1>Hello, world!</h1><br>';
-print 'from test 1';
+<?php
+
+require_once __DIR__ . '/lib.php';
+
+TestDeploy\SayHello2::Hello();
